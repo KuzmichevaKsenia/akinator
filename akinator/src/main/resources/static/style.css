@@ -1,0 +1,163 @@
+.back-main {
+    background-image: url("repoimages/back_main.jpg");
+}
+
+.back-games {
+    background-image: url("repoimages/back_games.png");
+}
+
+.back-user {
+    background-image: url("repoimages/back_user.png");
+}
+
+.back-band {
+    background-image: url("repoimages/back_band.png");
+}
+
+.back-game-1 {
+    background-image: url("repoimages/back_game_1.png");
+}
+
+.back-game-2 {
+    background-image: url("repoimages/back_game_2.png");
+}
+
+.back-meeting {
+    background-image: url("repoimages/back_meeting.jpg");
+}
+
+.back-lightning {
+    background: url("repoimages/lightning.png") 50% 50% no-repeat;
+    background-size: cover;
+}
+
+.back-height {
+    height: 100vh;
+}
+
+.overx {
+    overflow-x: hidden;
+}
+
+.overy {
+    overflow-y: hidden;
+}
+
+.center-align {
+    text-align: center;
+    vertical-align: middle;
+}
+
+.padding-top {
+    padding-top: 110px;
+}
+
+.hidden {
+    display: none;
+}
+
+.cloud {
+    background-image: url("repoimages/cloud-lb.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width: 235px;
+    height: 135px;
+    margin-left: 195px;
+    margin-bottom: -10px;
+}
+
+.cloud p {
+    margin: 25px 20px 0 40px;
+    font-weight: bold;
+}
+
+.login-title {
+    margin-top: -130px;
+    margin-bottom: 0px;
+    font-size: 140px;
+    color: #497cff;
+    font-weight: bolder;
+    text-align: center;
+}
+
+#btn-login-as-guest {
+    background-color: orange;
+}
+
+#top-players, #top-bands {
+    position: absolute;
+    z-index: 3;
+    background-color: antiquewhite;
+    height: 500px;
+    overflow-y: scroll;
+}
+
+#top-players {
+    left: 115px;
+}
+
+#top-bands {
+    left: 285px;
+}
+
+.nav-avatar {
+    width: 40px;
+}
+
+u {
+    font-size: 25px;
+}
+
+.navbar {
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+}
+
+.ml-400 {
+    margin-left: 400px;
+}
+
+.pt-10 {
+    padding-top: 10px;
+}
+
+.fz-25 {
+    font-size: 25px;
+}
+
+.left-player-profile p {
+    margin: 0;
+    padding: 0;
+}
+
+.member-td td {
+    width: 118px;
+}
+
+.sphinx-ico {
+    background: url("repoimages/spinx.png") 0% 0% no-repeat;
+    background-size: contain;
+    height: 304px;
+}
+
+.sphinx-ico:hover {
+    background-image: url("repoimages/spinx_hov.png");
+}
+
+.akinator-ico {
+    background: url("repoimages/akinator.png") 100% 100% no-repeat;
+    height: 460px;
+}
+
+.akinator-ico:hover {
+    background-image: url("repoimages/akinator_hov.png");
+}
+
+.band-ico {
+    background: url("repoimages/band.png") 100% 100% no-repeat;
+    height: 450px;
+}
+
+.band-ico:hover {
+    background-image: url("repoimages/band_hov.png");
+}
